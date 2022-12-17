@@ -6,3 +6,4 @@ social app with firebase
 
 # tools
 ## api and firebase and firstore
+## state managment (bloc)
